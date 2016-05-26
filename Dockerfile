@@ -1,4 +1,4 @@
 FROM node:latest
 
-MAINTENER Teody C. Seguin <teodyseguin@gmail.com>
+MAINTAINER Teody C. Seguin <teodyseguin@gmail.com>
 
